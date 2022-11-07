@@ -3,7 +3,7 @@
 In this project, the following open queuing network is implemented, and it also calculates the performance criteria after the model reaches a stable state.
 This network consists of three queues, the time distribution between entering the first queue and the service time of all queues is exponential.
 
-<img src="1.png" width="300" height=300></img> 
+<img src="1.png" width="600" height=300></img> 
 
 ## Document 
 The report is written in Persian.(will be translated soon!!)
