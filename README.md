@@ -14,8 +14,8 @@ The report is written in Persian.(will be translated soon!!)
 The project is written in Java.
 
 ## Images
-<img src="screenshot3.png" width="300" height=300></img> 
-<img src="screenshot5.png" width="300" height=300></img> 
+<img src="screenshot3.png" width="600" height=300></img> 
+<img src="screenshot5.png" width="600" height=300></img> 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
